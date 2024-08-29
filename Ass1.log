@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.8.23)  29 AUG 2024 09:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.8.23)  29 AUG 2024 10:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1154,12 +1154,7 @@ Overfull \hbox (0.28658pt too wide) in paragraph at lines 116--123
 pen-dic-u-lar
  []
 
-[3 <./Image 2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 123--125
-
- []
-
-[4 <./Image 3.jpg>]
+[3 <./Image 2.jpg>] [4 <./Image 3.jpg>]
 <image 4.jpg, id=56, 774.895pt x 497.86pt>
 File: image 4.jpg Graphic file (type jpg)
 <use image 4.jpg>
