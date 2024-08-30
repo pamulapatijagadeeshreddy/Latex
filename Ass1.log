@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.8.23)  29 AUG 2024 10:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.8.23)  30 AUG 2024 05:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1119,17 +1119,7 @@ File: image 1.jpg Graphic file (type jpg)
 <use image 1.jpg>
 Package pdftex.def Info: image 1.jpg  used on input line 90.
 (pdftex.def)             Requested size: 390.0pt x 376.39467pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-
- []
-
-[1
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./image 1.jpg>]
 Overfull \hbox (4.77467pt too wide) in paragraph at lines 105--106
@@ -1166,70 +1156,25 @@ File: image 5.jpg Graphic file (type jpg)
 <use image 5.jpg>
 Package pdftex.def Info: image 5.jpg  used on input line 146.
 (pdftex.def)             Requested size: 390.0pt x 277.46292pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
-
- []
-
-[7 <./image 5.jpg>]
+ [7 <./image 5.jpg>]
 <image 6.jpg, id=86, 915.42pt x 365.365pt>
 File: image 6.jpg Graphic file (type jpg)
 <use image 6.jpg>
 Package pdftex.def Info: image 6.jpg  used on input line 162.
 (pdftex.def)             Requested size: 390.0pt x 155.65437pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 185--187
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
-
- []
-
 <image 7.jpg, id=87, 1084.05pt x 409.53pt>
 File: image 7.jpg Graphic file (type jpg)
 <use image 7.jpg>
 Package pdftex.def Info: image 7.jpg  used on input line 195.
 (pdftex.def)             Requested size: 390.0pt x 147.3307pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--201
-
- []
-
-[8 <./image 6.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
-
- []
-
-[9 <./image 7.jpg>] (./Ass1.aux)
+ [8 <./image 6.jpg>] [9 <./image 7.jpg>] (./Ass1.aux)
 Package rerunfilecheck Info: File `Ass1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  30398 strings out of 476091
  600125 string characters out of 5794081
- 1859330 words of memory out of 5000000
+ 1858330 words of memory out of 5000000
  50194 multiletter control sequences out of 15000+600000
  532333 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1242,7 +1187,7 @@ onts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Ass1.pdf (9 pages, 943431 bytes).
+Output written on Ass1.pdf (9 pages, 943422 bytes).
 PDF statistics:
  158 PDF objects out of 1000 (max. 8388607)
  122 compressed objects within 2 object streams
